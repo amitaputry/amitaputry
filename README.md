@@ -1,6 +1,6 @@
 ### Hi there! I'm Amita 👋
 
-🌱 I’m currently learning at Telkom Institute of Technology Purwokerto as a Software Engineering Student. 
+🌱 I am now a fresh graduate with a passion for Product and Project Management with a background in Software Engineering.
 
 <p align="left">
   <a href="https://github.com/womenincode">
