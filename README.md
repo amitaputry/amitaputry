@@ -1,6 +1,6 @@
 ### Hi there! I'm Amita 👋
 
-🌱 I am now a fresh graduate with a passion for Product and Project Management with a background in Software Engineering.
+🌱 I am now a fresh graduate with a passion for Software Engineering Mobile Android.
 
 <p align="left">
   <a href="https://github.com/womenincode">
